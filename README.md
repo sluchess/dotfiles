@@ -1,0 +1,1 @@
+These are the dotfiles for my current Arch system. I will add screenshots and a little bit of an explanation in the near future. For now I am just commiting my files to git so that I have easy access to them in the future in case I need them.
