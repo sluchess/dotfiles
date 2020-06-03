@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/106_-_RIO1jA7.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181d1f",
+        "foreground": "#b0c8d9",
+        "cursor": "#b0c8d9"
+    },
+    "colors": {
+        "color0": "#181d1f",
+        "color1": "#8E725E",
+        "color2": "#78836D",
+        "color3": "#AA8F6C",
+        "color4": "#2C6A96",
+        "color5": "#517996",
+        "color6": "#608BAA",
+        "color7": "#b0c8d9",
+        "color8": "#7b8c97",
+        "color9": "#8E725E",
+        "color10": "#78836D",
+        "color11": "#AA8F6C",
+        "color12": "#2C6A96",
+        "color13": "#517996",
+        "color14": "#608BAA",
+        "color15": "#b0c8d9"
+    }
+}

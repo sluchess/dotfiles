@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/137_-_HyX1hru.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#151312",
+        "foreground": "#d2d2ce",
+        "cursor": "#d2d2ce"
+    },
+    "colors": {
+        "color0": "#151312",
+        "color1": "#5E7694",
+        "color2": "#2B78C6",
+        "color3": "#2691A4",
+        "color4": "#628FA6",
+        "color5": "#3886CC",
+        "color6": "#5F94CD",
+        "color7": "#d2d2ce",
+        "color8": "#939390",
+        "color9": "#5E7694",
+        "color10": "#2B78C6",
+        "color11": "#2691A4",
+        "color12": "#628FA6",
+        "color13": "#3886CC",
+        "color14": "#5F94CD",
+        "color15": "#d2d2ce"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/28_-_GNMXgtx.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181616",
+        "foreground": "#d4dddf",
+        "cursor": "#d4dddf"
+    },
+    "colors": {
+        "color0": "#181616",
+        "color1": "#607490",
+        "color2": "#8C7986",
+        "color3": "#6B8AA9",
+        "color4": "#4EACDE",
+        "color5": "#9F999E",
+        "color6": "#D2B1A0",
+        "color7": "#d4dddf",
+        "color8": "#949a9c",
+        "color9": "#607490",
+        "color10": "#8C7986",
+        "color11": "#6B8AA9",
+        "color12": "#4EACDE",
+        "color13": "#9F999E",
+        "color14": "#D2B1A0",
+        "color15": "#d4dddf"
+    }
+}
