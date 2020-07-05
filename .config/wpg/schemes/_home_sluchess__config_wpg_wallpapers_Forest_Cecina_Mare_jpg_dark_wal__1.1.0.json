@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/Forest_Cecina_Mare.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0e0c0a",
+        "foreground": "#cbdbed",
+        "cursor": "#cbdbed"
+    },
+    "colors": {
+        "color0": "#0e0c0a",
+        "color1": "#8C755D",
+        "color2": "#B1985E",
+        "color3": "#A59165",
+        "color4": "#6E828A",
+        "color5": "#AFA296",
+        "color6": "#95B8E2",
+        "color7": "#cbdbed",
+        "color8": "#8e99a5",
+        "color9": "#8C755D",
+        "color10": "#B1985E",
+        "color11": "#A59165",
+        "color12": "#6E828A",
+        "color13": "#AFA296",
+        "color14": "#95B8E2",
+        "color15": "#cbdbed"
+    }
+}

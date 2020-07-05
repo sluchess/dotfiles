@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/earth-landscape-mountain-magical-nature-astonishing-wallpaper-93088-142978768726.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0b0b07",
+        "foreground": "#e7e6e6",
+        "cursor": "#e7e6e6"
+    },
+    "colors": {
+        "color0": "#0b0b07",
+        "color1": "#666457",
+        "color2": "#926933",
+        "color3": "#808378",
+        "color4": "#959CA7",
+        "color5": "#B7BCC5",
+        "color6": "#D0D0D4",
+        "color7": "#e7e6e6",
+        "color8": "#a1a1a1",
+        "color9": "#666457",
+        "color10": "#926933",
+        "color11": "#808378",
+        "color12": "#959CA7",
+        "color13": "#B7BCC5",
+        "color14": "#D0D0D4",
+        "color15": "#e7e6e6"
+    }
+}

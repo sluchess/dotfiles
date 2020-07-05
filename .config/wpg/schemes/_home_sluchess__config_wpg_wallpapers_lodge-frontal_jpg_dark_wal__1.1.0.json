@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/lodge-frontal.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#14150d",
+        "foreground": "#d0d9e3",
+        "cursor": "#d0d9e3"
+    },
+    "colors": {
+        "color0": "#14150d",
+        "color1": "#375988",
+        "color2": "#63738A",
+        "color3": "#748495",
+        "color4": "#7BADE9",
+        "color5": "#AAA194",
+        "color6": "#9AB6DA",
+        "color7": "#d0d9e3",
+        "color8": "#91979e",
+        "color9": "#375988",
+        "color10": "#63738A",
+        "color11": "#748495",
+        "color12": "#7BADE9",
+        "color13": "#AAA194",
+        "color14": "#9AB6DA",
+        "color15": "#d0d9e3"
+    }
+}

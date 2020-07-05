@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/switzerland-alps-beautiful-landscape-wallpaper.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0d150c",
+        "foreground": "#e7ddcc",
+        "cursor": "#e7ddcc"
+    },
+    "colors": {
+        "color0": "#0d150c",
+        "color1": "#3B5786",
+        "color2": "#586F96",
+        "color3": "#7389A8",
+        "color4": "#7696C6",
+        "color5": "#9FA1A0",
+        "color6": "#CCB498",
+        "color7": "#e7ddcc",
+        "color8": "#a19a8e",
+        "color9": "#3B5786",
+        "color10": "#586F96",
+        "color11": "#7389A8",
+        "color12": "#7696C6",
+        "color13": "#9FA1A0",
+        "color14": "#CCB498",
+        "color15": "#e7ddcc"
+    }
+}

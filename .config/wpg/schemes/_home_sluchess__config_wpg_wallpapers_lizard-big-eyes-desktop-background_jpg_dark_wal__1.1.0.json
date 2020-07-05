@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/lizard-big-eyes-desktop-background.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#16120c",
+        "foreground": "#bfd2db",
+        "cursor": "#bfd2db"
+    },
+    "colors": {
+        "color0": "#16120c",
+        "color1": "#D2976B",
+        "color2": "#5F7989",
+        "color3": "#887C84",
+        "color4": "#7096A1",
+        "color5": "#75AEC7",
+        "color6": "#98A4A4",
+        "color7": "#bfd2db",
+        "color8": "#859399",
+        "color9": "#D2976B",
+        "color10": "#5F7989",
+        "color11": "#887C84",
+        "color12": "#7096A1",
+        "color13": "#75AEC7",
+        "color14": "#98A4A4",
+        "color15": "#bfd2db"
+    }
+}

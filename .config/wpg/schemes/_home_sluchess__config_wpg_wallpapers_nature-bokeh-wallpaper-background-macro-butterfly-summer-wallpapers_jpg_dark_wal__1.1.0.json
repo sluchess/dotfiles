@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/nature-bokeh-wallpaper-background-macro-butterfly-summer-wallpapers.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1f1c05",
+        "foreground": "#f2e8c8",
+        "cursor": "#f2e8c8"
+    },
+    "colors": {
+        "color0": "#1f1c05",
+        "color1": "#AF6F34",
+        "color2": "#B46E3E",
+        "color3": "#BB8846",
+        "color4": "#DBA156",
+        "color5": "#FAD469",
+        "color6": "#A97B85",
+        "color7": "#f2e8c8",
+        "color8": "#a9a28c",
+        "color9": "#AF6F34",
+        "color10": "#B46E3E",
+        "color11": "#BB8846",
+        "color12": "#DBA156",
+        "color13": "#FAD469",
+        "color14": "#A97B85",
+        "color15": "#f2e8c8"
+    }
+}

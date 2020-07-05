@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/hyacinth-macaw-2560x1600.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#101113",
+        "foreground": "#d0d4cd",
+        "cursor": "#d0d4cd"
+    },
+    "colors": {
+        "color0": "#101113",
+        "color1": "#C6B972",
+        "color2": "#2951A0",
+        "color3": "#2F5EBE",
+        "color4": "#4F6AAA",
+        "color5": "#74889D",
+        "color6": "#698BDE",
+        "color7": "#d0d4cd",
+        "color8": "#91948f",
+        "color9": "#C6B972",
+        "color10": "#2951A0",
+        "color11": "#2F5EBE",
+        "color12": "#4F6AAA",
+        "color13": "#74889D",
+        "color14": "#698BDE",
+        "color15": "#d0d4cd"
+    }
+}

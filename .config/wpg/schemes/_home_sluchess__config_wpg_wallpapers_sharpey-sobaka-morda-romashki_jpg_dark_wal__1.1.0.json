@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/sharpey-sobaka-morda-romashki.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0d0d03",
+        "foreground": "#e1e3c3",
+        "cursor": "#e1e3c3"
+    },
+    "colors": {
+        "color0": "#0d0d03",
+        "color1": "#A4A95D",
+        "color2": "#BAC55D",
+        "color3": "#C9D35B",
+        "color4": "#CBD270",
+        "color5": "#A6A79D",
+        "color6": "#BFBEAA",
+        "color7": "#e1e3c3",
+        "color8": "#9d9e88",
+        "color9": "#A4A95D",
+        "color10": "#BAC55D",
+        "color11": "#C9D35B",
+        "color12": "#CBD270",
+        "color13": "#A6A79D",
+        "color14": "#BFBEAA",
+        "color15": "#e1e3c3"
+    }
+}

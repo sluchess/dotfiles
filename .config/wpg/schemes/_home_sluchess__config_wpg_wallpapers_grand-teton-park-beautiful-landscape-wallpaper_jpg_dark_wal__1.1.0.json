@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/grand-teton-park-beautiful-landscape-wallpaper.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0C130A",
+        "foreground": "#a5a5ba",
+        "cursor": "#a5a5ba"
+    },
+    "colors": {
+        "color0": "#0C130A",
+        "color1": "#A66734",
+        "color2": "#976B54",
+        "color3": "#768749",
+        "color4": "#9E9620",
+        "color5": "#9A9663",
+        "color6": "#DFAD4D",
+        "color7": "#a5a5ba",
+        "color8": "#737382",
+        "color9": "#A66734",
+        "color10": "#976B54",
+        "color11": "#768749",
+        "color12": "#9E9620",
+        "color13": "#9A9663",
+        "color14": "#DFAD4D",
+        "color15": "#a5a5ba"
+    }
+}

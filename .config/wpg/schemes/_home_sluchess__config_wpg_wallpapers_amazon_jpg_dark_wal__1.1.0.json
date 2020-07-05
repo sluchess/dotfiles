@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/amazon.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0E110B",
+        "foreground": "#c8e7c8",
+        "cursor": "#c8e7c8"
+    },
+    "colors": {
+        "color0": "#0E110B",
+        "color1": "#AFB64F",
+        "color2": "#065DA3",
+        "color3": "#1C57AD",
+        "color4": "#8C788A",
+        "color5": "#33A7C5",
+        "color6": "#B8BDB0",
+        "color7": "#c8e7c8",
+        "color8": "#8ca18c",
+        "color9": "#AFB64F",
+        "color10": "#065DA3",
+        "color11": "#1C57AD",
+        "color12": "#8C788A",
+        "color13": "#33A7C5",
+        "color14": "#B8BDB0",
+        "color15": "#c8e7c8"
+    }
+}

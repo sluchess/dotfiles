@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/norwegian-nature-wallpapers-11.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#151910",
+        "foreground": "#c8dfe5",
+        "cursor": "#c8dfe5"
+    },
+    "colors": {
+        "color0": "#151910",
+        "color1": "#BD9B4A",
+        "color2": "#406A96",
+        "color3": "#72B0C3",
+        "color4": "#61ADD2",
+        "color5": "#A2A29C",
+        "color6": "#C2C1B3",
+        "color7": "#c8dfe5",
+        "color8": "#8c9ca0",
+        "color9": "#BD9B4A",
+        "color10": "#406A96",
+        "color11": "#72B0C3",
+        "color12": "#61ADD2",
+        "color13": "#A2A29C",
+        "color14": "#C2C1B3",
+        "color15": "#c8dfe5"
+    }
+}

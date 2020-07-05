@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/australian_shepherd_dog_flowers_meadow_grass_nature_97321_3840x2160.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#091504",
+        "foreground": "#e3d4d8",
+        "cursor": "#e3d4d8"
+    },
+    "colors": {
+        "color0": "#091504",
+        "color1": "#A39F5F",
+        "color2": "#CAB86A",
+        "color3": "#BB7987",
+        "color4": "#B1A092",
+        "color5": "#D6AC9E",
+        "color6": "#E1C8A4",
+        "color7": "#e3d4d8",
+        "color8": "#9e9497",
+        "color9": "#A39F5F",
+        "color10": "#CAB86A",
+        "color11": "#BB7987",
+        "color12": "#B1A092",
+        "color13": "#D6AC9E",
+        "color14": "#E1C8A4",
+        "color15": "#e3d4d8"
+    }
+}

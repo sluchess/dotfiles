@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/VVbaRSp.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0f130e",
+        "foreground": "#dfdecb",
+        "cursor": "#dfdecb"
+    },
+    "colors": {
+        "color0": "#0f130e",
+        "color1": "#91A220",
+        "color2": "#9EA45F",
+        "color3": "#BDBF5A",
+        "color4": "#797589",
+        "color5": "#A4A699",
+        "color6": "#C3B9A4",
+        "color7": "#dfdecb",
+        "color8": "#9c9b8e",
+        "color9": "#91A220",
+        "color10": "#9EA45F",
+        "color11": "#BDBF5A",
+        "color12": "#797589",
+        "color13": "#A4A699",
+        "color14": "#C3B9A4",
+        "color15": "#dfdecb"
+    }
+}

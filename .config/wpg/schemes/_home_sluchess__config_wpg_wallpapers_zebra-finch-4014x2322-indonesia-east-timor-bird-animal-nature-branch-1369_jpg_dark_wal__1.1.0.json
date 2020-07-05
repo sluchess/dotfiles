@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/zebra-finch-4014x2322-indonesia-east-timor-bird-animal-nature-branch-1369.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#161210",
+        "foreground": "#d3c8bf",
+        "cursor": "#d3c8bf"
+    },
+    "colors": {
+        "color0": "#161210",
+        "color1": "#A18A62",
+        "color2": "#A7917A",
+        "color3": "#D89346",
+        "color4": "#7A7788",
+        "color5": "#9E9B99",
+        "color6": "#B09985",
+        "color7": "#d3c8bf",
+        "color8": "#938c85",
+        "color9": "#A18A62",
+        "color10": "#A7917A",
+        "color11": "#D89346",
+        "color12": "#7A7788",
+        "color13": "#9E9B99",
+        "color14": "#B09985",
+        "color15": "#d3c8bf"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/Papageitaucher_Fratercula_arctica.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#10130a",
+        "foreground": "#d1dbe0",
+        "cursor": "#d1dbe0"
+    },
+    "colors": {
+        "color0": "#10130a",
+        "color1": "#757A85",
+        "color2": "#669EA8",
+        "color3": "#7CB9C0",
+        "color4": "#9A9DA2",
+        "color5": "#CEB9A1",
+        "color6": "#A8BBC5",
+        "color7": "#d1dbe0",
+        "color8": "#92999c",
+        "color9": "#757A85",
+        "color10": "#669EA8",
+        "color11": "#7CB9C0",
+        "color12": "#9A9DA2",
+        "color13": "#CEB9A1",
+        "color14": "#A8BBC5",
+        "color15": "#d1dbe0"
+    }
+}

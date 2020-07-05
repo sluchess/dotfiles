@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/sunset_mountains_river_forest_autumn_landscape_____g_2560x1600.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0e130a",
+        "foreground": "#93a4c7",
+        "cursor": "#93a4c7"
+    },
+    "colors": {
+        "color0": "#0e130a",
+        "color1": "#CA790C",
+        "color2": "#9C725A",
+        "color3": "#E09818",
+        "color4": "#C09048",
+        "color5": "#053791",
+        "color6": "#114BA4",
+        "color7": "#93a4c7",
+        "color8": "#66728b",
+        "color9": "#CA790C",
+        "color10": "#9C725A",
+        "color11": "#E09818",
+        "color12": "#C09048",
+        "color13": "#053791",
+        "color14": "#114BA4",
+        "color15": "#93a4c7"
+    }
+}

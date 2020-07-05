@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/butterfly-on-flowers-1.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#121312",
+        "foreground": "#ded0d7",
+        "cursor": "#ded0d7"
+    },
+    "colors": {
+        "color0": "#121312",
+        "color1": "#6245A0",
+        "color2": "#6636CB",
+        "color3": "#7349D4",
+        "color4": "#A32399",
+        "color5": "#BB4EC5",
+        "color6": "#A061E2",
+        "color7": "#ded0d7",
+        "color8": "#9b9196",
+        "color9": "#6245A0",
+        "color10": "#6636CB",
+        "color11": "#7349D4",
+        "color12": "#A32399",
+        "color13": "#BB4EC5",
+        "color14": "#A061E2",
+        "color15": "#ded0d7"
+    }
+}

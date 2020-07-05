@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/HD-Jungle-Wallpaper-Background.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0D150F",
+        "foreground": "#b1c1bc",
+        "cursor": "#b1c1bc"
+    },
+    "colors": {
+        "color0": "#0D150F",
+        "color1": "#496132",
+        "color2": "#395546",
+        "color3": "#566657",
+        "color4": "#568B30",
+        "color5": "#658E63",
+        "color6": "#8B886F",
+        "color7": "#b1c1bc",
+        "color8": "#7b8783",
+        "color9": "#496132",
+        "color10": "#395546",
+        "color11": "#566657",
+        "color12": "#568B30",
+        "color13": "#658E63",
+        "color14": "#8B886F",
+        "color15": "#b1c1bc"
+    }
+}

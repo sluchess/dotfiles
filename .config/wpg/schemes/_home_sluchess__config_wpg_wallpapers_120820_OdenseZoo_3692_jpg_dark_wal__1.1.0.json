@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/120820_OdenseZoo_3692.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0d0e04",
+        "foreground": "#adbfd8",
+        "cursor": "#adbfd8"
+    },
+    "colors": {
+        "color0": "#0d0e04",
+        "color1": "#253451",
+        "color2": "#344666",
+        "color3": "#525E64",
+        "color4": "#C6AF5D",
+        "color5": "#375999",
+        "color6": "#526EA1",
+        "color7": "#adbfd8",
+        "color8": "#798597",
+        "color9": "#253451",
+        "color10": "#344666",
+        "color11": "#525E64",
+        "color12": "#C6AF5D",
+        "color13": "#375999",
+        "color14": "#526EA1",
+        "color15": "#adbfd8"
+    }
+}

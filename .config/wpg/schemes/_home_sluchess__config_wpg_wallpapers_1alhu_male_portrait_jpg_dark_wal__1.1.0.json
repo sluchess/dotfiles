@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/1alhu_male_portrait.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#19190c",
+        "foreground": "#c8c9c1",
+        "cursor": "#c8c9c1"
+    },
+    "colors": {
+        "color0": "#19190c",
+        "color1": "#73823B",
+        "color2": "#7A865A",
+        "color3": "#8D8969",
+        "color4": "#939265",
+        "color5": "#C19663",
+        "color6": "#7E8F84",
+        "color7": "#c8c9c1",
+        "color8": "#8c8c87",
+        "color9": "#73823B",
+        "color10": "#7A865A",
+        "color11": "#8D8969",
+        "color12": "#939265",
+        "color13": "#C19663",
+        "color14": "#7E8F84",
+        "color15": "#c8c9c1"
+    }
+}

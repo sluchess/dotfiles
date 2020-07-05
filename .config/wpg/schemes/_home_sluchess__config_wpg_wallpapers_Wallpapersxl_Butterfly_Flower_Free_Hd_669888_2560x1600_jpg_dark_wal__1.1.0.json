@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/Wallpapersxl_Butterfly_Flower_Free_Hd_669888_2560x1600.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#070802",
+        "foreground": "#e5d5ca",
+        "cursor": "#e5d5ca"
+    },
+    "colors": {
+        "color0": "#070802",
+        "color1": "#916854",
+        "color2": "#807B7F",
+        "color3": "#D09A3B",
+        "color4": "#94886E",
+        "color5": "#939795",
+        "color6": "#AAACAC",
+        "color7": "#e5d5ca",
+        "color8": "#a0958d",
+        "color9": "#916854",
+        "color10": "#807B7F",
+        "color11": "#D09A3B",
+        "color12": "#94886E",
+        "color13": "#939795",
+        "color14": "#AAACAC",
+        "color15": "#e5d5ca"
+    }
+}

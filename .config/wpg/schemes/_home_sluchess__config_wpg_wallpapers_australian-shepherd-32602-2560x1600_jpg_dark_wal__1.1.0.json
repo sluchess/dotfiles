@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/australian-shepherd-32602-2560x1600.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#150a07",
+        "foreground": "#e2d8cd",
+        "cursor": "#e2d8cd"
+    },
+    "colors": {
+        "color0": "#150a07",
+        "color1": "#946A53",
+        "color2": "#A3785F",
+        "color3": "#A5856B",
+        "color4": "#B28C70",
+        "color5": "#C79A77",
+        "color6": "#CEAF90",
+        "color7": "#e2d8cd",
+        "color8": "#9e978f",
+        "color9": "#946A53",
+        "color10": "#A3785F",
+        "color11": "#A5856B",
+        "color12": "#B28C70",
+        "color13": "#C79A77",
+        "color14": "#CEAF90",
+        "color15": "#e2d8cd"
+    }
+}

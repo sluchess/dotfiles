@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/Tree-Frog.jpeg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1e1e0d",
+        "foreground": "#cbcbbf",
+        "cursor": "#cbcbbf"
+    },
+    "colors": {
+        "color0": "#1e1e0d",
+        "color1": "#788858",
+        "color2": "#A0B137",
+        "color3": "#959D5B",
+        "color4": "#8F906E",
+        "color5": "#AEB371",
+        "color6": "#8D7E89",
+        "color7": "#cbcbbf",
+        "color8": "#8e8e85",
+        "color9": "#788858",
+        "color10": "#A0B137",
+        "color11": "#959D5B",
+        "color12": "#8F906E",
+        "color13": "#AEB371",
+        "color14": "#8D7E89",
+        "color15": "#cbcbbf"
+    }
+}

@@ -4,14 +4,14 @@
 
 set $mod Mod4
 set $alt Mod1
-set $coloract "#38649a"
-set $colorin "#274569"
+set $coloract "#772a3c"
+set $colorin "#521d29"
 set $terminal kitty
-set_from_resource $color15 i3wm.color15 "#c5c6cb"
-set_from_resource $split i3wm.color10 "#867E8B"
-set_from_resource $coloru i3wm.color2 "#867E8B"
-set_from_resource $color0 i3wm.color0 "#1f242c"
-set_from_resource $color8 i3wm.color8 "#898a8e"
+set_from_resource $color15 i3wm.color15 "#f5cd9c"
+set_from_resource $split i3wm.color10 "#604D62"
+set_from_resource $coloru i3wm.color2 "#604D62"
+set_from_resource $color0 i3wm.color0 "#190f0d"
+set_from_resource $color8 i3wm.color8 "#ab8f6d"
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
@@ -213,6 +213,6 @@ exec --no-startup-id ~/.config/wpg/wp_init.sh
 # exec --no-startup-id urxvt -name dropdown
 # exec_always --no-startup-id ~/Code/scripts/polybar.sh
 exec --no-startup-id ~/scripts/launch_polybar.sh
-#exec --no-startup-id ~/scripts/fix_screens.sh
+exec --no-startup-id ~/scripts/fix_screens.sh
 exec --no-startup-id picom
 exec --no-startup-id kitty --name dropdown

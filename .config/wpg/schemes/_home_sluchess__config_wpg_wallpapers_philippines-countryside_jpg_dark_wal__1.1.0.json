@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/philippines-countryside.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0F140C",
+        "foreground": "#cad6dc",
+        "cursor": "#cad6dc"
+    },
+    "colors": {
+        "color0": "#0F140C",
+        "color1": "#2B76A3",
+        "color2": "#51788A",
+        "color3": "#3A84B1",
+        "color4": "#528FB1",
+        "color5": "#67A3C9",
+        "color6": "#92B6CE",
+        "color7": "#cad6dc",
+        "color8": "#8d959a",
+        "color9": "#2B76A3",
+        "color10": "#51788A",
+        "color11": "#3A84B1",
+        "color12": "#528FB1",
+        "color13": "#67A3C9",
+        "color14": "#92B6CE",
+        "color15": "#cad6dc"
+    }
+}

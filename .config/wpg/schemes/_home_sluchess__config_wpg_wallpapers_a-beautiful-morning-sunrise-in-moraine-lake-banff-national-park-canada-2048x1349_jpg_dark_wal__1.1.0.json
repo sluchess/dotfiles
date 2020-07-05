@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/a-beautiful-morning-sunrise-in-moraine-lake-banff-national-park-canada-2048x1349.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#13130d",
+        "foreground": "#c3daf6",
+        "cursor": "#c3daf6"
+    },
+    "colors": {
+        "color0": "#13130d",
+        "color1": "#647194",
+        "color2": "#99768F",
+        "color3": "#6FA0DF",
+        "color4": "#A1909C",
+        "color5": "#9BAEE7",
+        "color6": "#D9B8CE",
+        "color7": "#c3daf6",
+        "color8": "#8898ac",
+        "color9": "#647194",
+        "color10": "#99768F",
+        "color11": "#6FA0DF",
+        "color12": "#A1909C",
+        "color13": "#9BAEE7",
+        "color14": "#D9B8CE",
+        "color15": "#c3daf6"
+    }
+}

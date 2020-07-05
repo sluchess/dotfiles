@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/caracal-007.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0b0703",
+        "foreground": "#d8c5a7",
+        "cursor": "#d8c5a7"
+    },
+    "colors": {
+        "color0": "#0b0703",
+        "color1": "#514633",
+        "color2": "#605528",
+        "color3": "#675C4D",
+        "color4": "#8F714B",
+        "color5": "#7B8357",
+        "color6": "#A68D66",
+        "color7": "#d8c5a7",
+        "color8": "#978974",
+        "color9": "#514633",
+        "color10": "#605528",
+        "color11": "#675C4D",
+        "color12": "#8F714B",
+        "color13": "#7B8357",
+        "color14": "#A68D66",
+        "color15": "#d8c5a7"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/trees25.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c0d08",
+        "foreground": "#bfbec7",
+        "cursor": "#bfbec7"
+    },
+    "colors": {
+        "color0": "#0c0d08",
+        "color1": "#4D4E2A",
+        "color2": "#675A28",
+        "color3": "#455470",
+        "color4": "#867152",
+        "color5": "#335288",
+        "color6": "#707289",
+        "color7": "#bfbec7",
+        "color8": "#85858b",
+        "color9": "#4D4E2A",
+        "color10": "#675A28",
+        "color11": "#455470",
+        "color12": "#867152",
+        "color13": "#335288",
+        "color14": "#707289",
+        "color15": "#bfbec7"
+    }
+}

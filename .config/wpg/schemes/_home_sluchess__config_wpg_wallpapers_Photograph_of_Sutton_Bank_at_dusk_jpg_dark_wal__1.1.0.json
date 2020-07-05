@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/Photograph_of_Sutton_Bank_at_dusk.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1b1a11",
+        "foreground": "#c3c3c6",
+        "cursor": "#c3c3c6"
+    },
+    "colors": {
+        "color0": "#1b1a11",
+        "color1": "#B6935D",
+        "color2": "#395188",
+        "color3": "#5D7097",
+        "color4": "#837D86",
+        "color5": "#7086A7",
+        "color6": "#6D97C8",
+        "color7": "#c3c3c6",
+        "color8": "#88888a",
+        "color9": "#B6935D",
+        "color10": "#395188",
+        "color11": "#5D7097",
+        "color12": "#837D86",
+        "color13": "#7086A7",
+        "color14": "#6D97C8",
+        "color15": "#c3c3c6"
+    }
+}

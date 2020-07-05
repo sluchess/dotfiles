@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/CWEU63x.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1b180d",
+        "foreground": "#f1e4ca",
+        "cursor": "#f1e4ca"
+    },
+    "colors": {
+        "color0": "#1b180d",
+        "color1": "#AA906B",
+        "color2": "#C6A147",
+        "color3": "#6D788A",
+        "color4": "#798697",
+        "color5": "#9F9A96",
+        "color6": "#D1B491",
+        "color7": "#f1e4ca",
+        "color8": "#a89f8d",
+        "color9": "#AA906B",
+        "color10": "#C6A147",
+        "color11": "#6D788A",
+        "color12": "#798697",
+        "color13": "#9F9A96",
+        "color14": "#D1B491",
+        "color15": "#f1e4ca"
+    }
+}

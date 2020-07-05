@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/puffin-048.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0E1308",
+        "foreground": "#d6cfc5",
+        "cursor": "#d6cfc5"
+    },
+    "colors": {
+        "color0": "#0E1308",
+        "color1": "#A15628",
+        "color2": "#917350",
+        "color3": "#748831",
+        "color4": "#B09A4F",
+        "color5": "#A19261",
+        "color6": "#807B85",
+        "color7": "#d6cfc5",
+        "color8": "#959089",
+        "color9": "#A15628",
+        "color10": "#917350",
+        "color11": "#748831",
+        "color12": "#B09A4F",
+        "color13": "#A19261",
+        "color14": "#807B85",
+        "color15": "#d6cfc5"
+    }
+}

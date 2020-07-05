@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/Powerscourt_Deerpark_and_Waterfall.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0d100d",
+        "foreground": "#dcdce1",
+        "cursor": "#dcdce1"
+    },
+    "colors": {
+        "color0": "#0d100d",
+        "color1": "#88774E",
+        "color2": "#7A8240",
+        "color3": "#94911E",
+        "color4": "#9D905E",
+        "color5": "#C3AB63",
+        "color6": "#B6B3BA",
+        "color7": "#dcdce1",
+        "color8": "#9a9a9d",
+        "color9": "#88774E",
+        "color10": "#7A8240",
+        "color11": "#94911E",
+        "color12": "#9D905E",
+        "color13": "#C3AB63",
+        "color14": "#B6B3BA",
+        "color15": "#dcdce1"
+    }
+}

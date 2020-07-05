@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/beautiful-3d.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#040507",
+        "foreground": "#8ab3b8",
+        "cursor": "#8ab3b8"
+    },
+    "colors": {
+        "color0": "#040507",
+        "color1": "#054957",
+        "color2": "#045468",
+        "color3": "#226369",
+        "color4": "#546760",
+        "color5": "#AF5C29",
+        "color6": "#BFA11B",
+        "color7": "#8ab3b8",
+        "color8": "#607d80",
+        "color9": "#054957",
+        "color10": "#045468",
+        "color11": "#226369",
+        "color12": "#546760",
+        "color13": "#AF5C29",
+        "color14": "#BFA11B",
+        "color15": "#8ab3b8"
+    }
+}

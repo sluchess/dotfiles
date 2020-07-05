@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/wallhaven-177896.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#131110",
+        "foreground": "#e2ddd5",
+        "cursor": "#e2ddd5"
+    },
+    "colors": {
+        "color0": "#131110",
+        "color1": "#B2A35F",
+        "color2": "#30648D",
+        "color3": "#4A769D",
+        "color4": "#648DB3",
+        "color5": "#7A9EC3",
+        "color6": "#A8A09A",
+        "color7": "#e2ddd5",
+        "color8": "#9e9a95",
+        "color9": "#B2A35F",
+        "color10": "#30648D",
+        "color11": "#4A769D",
+        "color12": "#648DB3",
+        "color13": "#7A9EC3",
+        "color14": "#A8A09A",
+        "color15": "#e2ddd5"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/Dog_Forest_Border_Collie_Animals_Nature_e_2998x1758.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1e1813",
+        "foreground": "#e5ddcb",
+        "cursor": "#e5ddcb"
+    },
+    "colors": {
+        "color0": "#1e1813",
+        "color1": "#A2916F",
+        "color2": "#C7AD76",
+        "color3": "#9B6B93",
+        "color4": "#AF9F8D",
+        "color5": "#CAB492",
+        "color6": "#CEAFA6",
+        "color7": "#e5ddcb",
+        "color8": "#a09a8e",
+        "color9": "#A2916F",
+        "color10": "#C7AD76",
+        "color11": "#9B6B93",
+        "color12": "#AF9F8D",
+        "color13": "#CAB492",
+        "color14": "#CEAFA6",
+        "color15": "#e5ddcb"
+    }
+}

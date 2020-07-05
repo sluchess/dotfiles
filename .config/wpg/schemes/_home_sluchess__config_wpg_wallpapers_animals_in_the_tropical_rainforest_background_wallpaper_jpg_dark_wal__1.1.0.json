@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/animals_in_the_tropical_rainforest_background_wallpaper.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#110d07",
+        "foreground": "#88b4c9",
+        "cursor": "#88b4c9"
+    },
+    "colors": {
+        "color0": "#110d07",
+        "color1": "#937052",
+        "color2": "#738C2F",
+        "color3": "#768B4A",
+        "color4": "#97A633",
+        "color5": "#A39F59",
+        "color6": "#C6C350",
+        "color7": "#88b4c9",
+        "color8": "#5f7d8c",
+        "color9": "#937052",
+        "color10": "#738C2F",
+        "color11": "#768B4A",
+        "color12": "#97A633",
+        "color13": "#A39F59",
+        "color14": "#C6C350",
+        "color15": "#88b4c9"
+    }
+}

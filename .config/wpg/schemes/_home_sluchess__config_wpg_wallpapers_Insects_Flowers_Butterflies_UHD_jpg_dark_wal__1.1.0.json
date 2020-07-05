@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/Insects_Flowers_Butterflies_UHD.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#131805",
+        "foreground": "#dbd9d3",
+        "cursor": "#dbd9d3"
+    },
+    "colors": {
+        "color0": "#131805",
+        "color1": "#758B12",
+        "color2": "#94A50E",
+        "color3": "#CAD32B",
+        "color4": "#928D63",
+        "color5": "#7F7F90",
+        "color6": "#A2A3A3",
+        "color7": "#dbd9d3",
+        "color8": "#999793",
+        "color9": "#758B12",
+        "color10": "#94A50E",
+        "color11": "#CAD32B",
+        "color12": "#928D63",
+        "color13": "#7F7F90",
+        "color14": "#A2A3A3",
+        "color15": "#dbd9d3"
+    }
+}
