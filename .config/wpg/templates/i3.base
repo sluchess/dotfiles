@@ -82,6 +82,16 @@ bindsym $mod+space focus mode_toggle
 # focus the parent container
 bindsym $mod+p focus parent
 
+###### MEDIA KEYS #######
+
+bindsym XF86AudioPlay exec playerctl play-pause
+bindsym XF86AudioPause exec playerctl play-pause
+bindsym XF86AudioNext exec playerctl next
+bindsym XF86AudioPrev exec playerctl previous
+bindsym XF86AudioRaiseVolume exec pactl set-sink-volume @DEFAULT_SINK@ +1% # raise volume
+bindsym XF86AudioLowerVolume exec pactl set-sink-volume @DEFAULT_SINK@ -1% # lower volume
+bindsym XF86AudioMute exec pactl set-sink-mute @DEFAULT_SINK@ toggle # toggle mute for default device
+
 ###### EXECUTE PROGRAMS ######
 
 bindsym $mod+f       exec thunar

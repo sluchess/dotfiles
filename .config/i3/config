@@ -4,14 +4,14 @@
 
 set $mod Mod4
 set $alt Mod1
-set $coloract "#772a3c"
-set $colorin "#521d29"
+set $coloract "#605d6d"
+set $colorin "#42404b"
 set $terminal kitty
-set_from_resource $color15 i3wm.color15 "#f5cd9c"
-set_from_resource $split i3wm.color10 "#604D62"
-set_from_resource $coloru i3wm.color2 "#604D62"
-set_from_resource $color0 i3wm.color0 "#190f0d"
-set_from_resource $color8 i3wm.color8 "#ab8f6d"
+set_from_resource $color15 i3wm.color15 "#dfdecb"
+set_from_resource $split i3wm.color10 "#9EA45F"
+set_from_resource $coloru i3wm.color2 "#9EA45F"
+set_from_resource $color0 i3wm.color0 "#0f130e"
+set_from_resource $color8 i3wm.color8 "#9c9b8e"
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
@@ -81,6 +81,16 @@ bindsym $mod+space focus mode_toggle
 
 # focus the parent container
 bindsym $mod+p focus parent
+
+###### MEDIA KEYS #######
+
+bindsym XF86AudioPlay exec playerctl play-pause
+bindsym XF86AudioPause exec playerctl play-pause
+bindsym XF86AudioNext exec playerctl next
+bindsym XF86AudioPrev exec playerctl previous
+bindsym XF86AudioRaiseVolume exec pactl set-sink-volume @DEFAULT_SINK@ +1% # raise volume
+bindsym XF86AudioLowerVolume exec pactl set-sink-volume @DEFAULT_SINK@ -1% # lower volume
+bindsym XF86AudioMute exec pactl set-sink-mute @DEFAULT_SINK@ toggle # toggle mute for default device
 
 ###### EXECUTE PROGRAMS ######
 
