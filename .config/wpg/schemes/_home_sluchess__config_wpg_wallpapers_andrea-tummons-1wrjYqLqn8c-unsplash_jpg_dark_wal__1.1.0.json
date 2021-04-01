@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/sluchess/.config/wpg/wallpapers/andrea-tummons-1wrjYqLqn8c-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0b0c0c",
+        "foreground": "#dcd1cf",
+        "cursor": "#dcd1cf"
+    },
+    "colors": {
+        "color0": "#0b0c0c",
+        "color1": "#788579",
+        "color2": "#94857B",
+        "color3": "#C2827E",
+        "color4": "#A49890",
+        "color5": "#B7AFA9",
+        "color6": "#C59E98",
+        "color7": "#dcd1cf",
+        "color8": "#9a9290",
+        "color9": "#788579",
+        "color10": "#94857B",
+        "color11": "#C2827E",
+        "color12": "#A49890",
+        "color13": "#B7AFA9",
+        "color14": "#C59E98",
+        "color15": "#dcd1cf"
+    }
+}
