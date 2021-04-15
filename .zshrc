@@ -97,7 +97,7 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-alias i3cfg="nano ~/.config/wpg/templates/i3.base"
+alias i3cfg="micro ~/.config/wpg/templates/i3.base"
 alias sps="sudo pacman -Syu"
 
 # Reload wpg settings
