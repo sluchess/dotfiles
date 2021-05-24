@@ -108,6 +108,8 @@ bindsym $alt+F4      kill
 bindsym $mod+Shift+q      kill
 bindsym $alt+F2      exec rofi -show run
 bindsym $alt+F1      exec ~/scripts/fix_screens.sh
+# bindsym $alt+F3		 exec kitty vim ~/Documents/Vim_Vixen
+# bindsym $alt+F3		 exec firefox-developer-edition https://ueokande.github.io/vim-vixen/keymaps.html
 
 bindsym --release Print exec scrot
 bindsym --release Shift+Print exec scrot -s
@@ -205,7 +207,7 @@ bindsym $mod+d mode "display"
 # assign [class = "zoom"] 9
 # assign [instance = "music"] 10
 
-# for_window [class = "Wpg"] floating enable
+for_window [class = "Wpg"] floating enable
 for_window [instance = "dropdown"] move scratchpad
 for_window [instance = "dropdown"] floating enable
 # for_window [instance = "music"] floating enable
@@ -228,3 +230,4 @@ exec --no-startup-id ~/scripts/launch_polybar.sh
 exec --no-startup-id ~/scripts/fix_screens.sh
 exec --no-startup-id picom
 exec --no-startup-id kitty --name dropdown
+exec --no-startup-id brave

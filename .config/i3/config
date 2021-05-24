@@ -4,14 +4,14 @@
 
 set $mod Mod4
 set $alt Mod1
-set $coloract "#473d54"
-set $colorin "#302a3a"
+set $coloract "#5a3b57"
+set $colorin "#3e283b"
 set $terminal kitty
-set_from_resource $color15 i3wm.color15 "#b5bbcc"
-set_from_resource $split i3wm.color10 "#594D6A"
-set_from_resource $coloru i3wm.color2 "#594D6A"
-set_from_resource $color0 i3wm.color0 "#0b060b"
-set_from_resource $color8 i3wm.color8 "#7e828e"
+set_from_resource $color15 i3wm.color15 "#d8b6c9"
+set_from_resource $split i3wm.color10 "#614F64"
+set_from_resource $coloru i3wm.color2 "#614F64"
+set_from_resource $color0 i3wm.color0 "#0c040a"
+set_from_resource $color8 i3wm.color8 "#977f8c"
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
@@ -108,6 +108,8 @@ bindsym $alt+F4      kill
 bindsym $mod+Shift+q      kill
 bindsym $alt+F2      exec rofi -show run
 bindsym $alt+F1      exec ~/scripts/fix_screens.sh
+# bindsym $alt+F3		 exec kitty vim ~/Documents/Vim_Vixen
+# bindsym $alt+F3		 exec firefox-developer-edition https://ueokande.github.io/vim-vixen/keymaps.html
 
 bindsym --release Print exec scrot
 bindsym --release Shift+Print exec scrot -s
@@ -205,7 +207,7 @@ bindsym $mod+d mode "display"
 # assign [class = "zoom"] 9
 # assign [instance = "music"] 10
 
-# for_window [class = "Wpg"] floating enable
+for_window [class = "Wpg"] floating enable
 for_window [instance = "dropdown"] move scratchpad
 for_window [instance = "dropdown"] floating enable
 # for_window [instance = "music"] floating enable
@@ -228,3 +230,4 @@ exec --no-startup-id ~/scripts/launch_polybar.sh
 exec --no-startup-id ~/scripts/fix_screens.sh
 exec --no-startup-id picom
 exec --no-startup-id kitty --name dropdown
+exec --no-startup-id brave
