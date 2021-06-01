@@ -1,8 +1,8 @@
 [colors]
 background = ${xrdb:color8:#977f8c}
 foreground = ${xrdb:color15:#d8b6c9}
-active = #5a3b57
-inactive = #3e283b
+active = #4d3f4f
+inactive = #352b36
 highlight = ${xrdb:color2:#614F64}
 error = ${xrdb:color9:#5F3059}
 
@@ -74,11 +74,11 @@ fuzzy-matching = true
 ; Only show workspaces on the same output as the bar
 pin-workspaces = true
 
-ws-icon-0 = 1;
-ws-icon-1 = 2;
-ws-icon-2 = 9;
-ws-icon-3 = 10;
-ws-icon-default = 
+;ws-icon-0 = 1;
+;ws-icon-1 = 2;
+;ws-icon-2 = 9;
+;ws-icon-3 = 10;
+;ws-icon-default = 
 
 label-mode-padding = 1
 label-mode-foreground = ${colors.foreground}

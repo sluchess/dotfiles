@@ -105,3 +105,7 @@ alias sps="sudo pacman -Syu"
 
 # Add scripts directory to path
 export PATH=$PATH:~/scripts
+
+# Add DOOM emacs directory to path
+export PATH=$PATH:~/.emacs.d/bin
+
