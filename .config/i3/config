@@ -4,14 +4,14 @@
 
 set $mod Mod4
 set $alt Mod1
-set $coloract "#4d3f4f"
-set $colorin "#352b36"
+set $coloract "#80547b"
+set $colorin "#583a55"
 set $terminal kitty
-set_from_resource $color15 i3wm.color15 "#d8b6c9"
-set_from_resource $split i3wm.color10 "#614F64"
-set_from_resource $coloru i3wm.color2 "#614F64"
-set_from_resource $color0 i3wm.color0 "#0c040a"
-set_from_resource $color8 i3wm.color8 "#977f8c"
+set_from_resource $color15 i3wm.color15 "#b5bbcc"
+set_from_resource $split i3wm.color10 "#594D6A"
+set_from_resource $coloru i3wm.color2 "#594D6A"
+set_from_resource $color0 i3wm.color0 "#0b060b"
+set_from_resource $color8 i3wm.color8 "#7e828e"
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
@@ -98,7 +98,8 @@ bindsym $mod+f       exec thunar
 #bindsym $mod+Shift+f exec urxvt -name fexplorer -e ranger
 bindsym $mod+Shift+f exec kitty ranger
 #bindsym $mod+w       exec qutebrowser
-bindsym $mod+w      exec firefox-developer-edition
+# bindsym $mod+w      exec firefox-developer-edition
+bindsym $mod+w      exec brave
 #bindsym $mod+m       exec urxvt -name music -e ncmpcpp
 bindsym $mod+$alt+t  exec wpg -m
 bindsym $alt+Tab     exec rofi -show window
@@ -111,6 +112,7 @@ bindsym $alt+F1      exec ~/scripts/fix_screens.sh
 # bindsym $alt+F3		 exec kitty vim ~/Documents/Vim_Vixen
 # bindsym $alt+F3		 exec firefox-developer-edition https://ueokande.github.io/vim-vixen/keymaps.html
 bindsym $mod+e 		 exec emacs
+bindsym $mod+m       exec brave --new-window "https://messages.google.com/web/conversations"
 
 bindsym --release Print exec scrot
 bindsym --release Shift+Print exec scrot -s
@@ -231,9 +233,10 @@ exec --no-startup-id ~/scripts/launch_polybar.sh
 exec --no-startup-id ~/scripts/fix_screens.sh
 exec --no-startup-id picom
 exec --no-startup-id kitty --name dropdown
+exec --no-startup-id dunst
 
-# auto launch twitch stream to earn BAT and useless twitch points
 exec --no-startup-id brave
+exec --no-startup-id discord
 
 # bspwm style tiling script
 exec --no-startup-id ~/Documents/i3-alternating-layout/alternating_layouts.py

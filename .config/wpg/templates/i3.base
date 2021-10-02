@@ -98,7 +98,8 @@ bindsym $mod+f       exec thunar
 #bindsym $mod+Shift+f exec urxvt -name fexplorer -e ranger
 bindsym $mod+Shift+f exec kitty ranger
 #bindsym $mod+w       exec qutebrowser
-bindsym $mod+w      exec firefox-developer-edition
+# bindsym $mod+w      exec firefox-developer-edition
+bindsym $mod+w      exec brave
 #bindsym $mod+m       exec urxvt -name music -e ncmpcpp
 bindsym $mod+$alt+t  exec wpg -m
 bindsym $alt+Tab     exec rofi -show window
@@ -111,6 +112,7 @@ bindsym $alt+F1      exec ~/scripts/fix_screens.sh
 # bindsym $alt+F3		 exec kitty vim ~/Documents/Vim_Vixen
 # bindsym $alt+F3		 exec firefox-developer-edition https://ueokande.github.io/vim-vixen/keymaps.html
 bindsym $mod+e 		 exec emacs
+bindsym $mod+m       exec brave --new-window "https://messages.google.com/web/conversations"
 
 bindsym --release Print exec scrot
 bindsym --release Shift+Print exec scrot -s
@@ -231,9 +233,10 @@ exec --no-startup-id ~/scripts/launch_polybar.sh
 exec --no-startup-id ~/scripts/fix_screens.sh
 exec --no-startup-id picom
 exec --no-startup-id kitty --name dropdown
+exec --no-startup-id dunst
 
-# auto launch twitch stream to earn BAT and useless twitch points
 exec --no-startup-id brave
+exec --no-startup-id discord
 
 # bspwm style tiling script
 exec --no-startup-id ~/Documents/i3-alternating-layout/alternating_layouts.py
