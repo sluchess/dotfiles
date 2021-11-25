@@ -36,7 +36,7 @@ modules-left = i3 xwindow spotify spotify-prev spotify-play-pause spotify-next
 modules-center = date
 modules-right =  volume wlan eth battery separator power-menu
 
-tray-position = none
+tray-position = right
 tray-padding = 10
 tray-background = ${{colors.inactive}}
 

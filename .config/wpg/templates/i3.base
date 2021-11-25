@@ -36,6 +36,11 @@ client.background       $color0
 floating_modifier $mod
 
 
+# close dunst notification
+bindsym Control+space exec dunstctl close
+bindsym Control+Shift+space exec dunstctl close-all
+bindsym Control+Shift+period exec dunstctl context
+
 # change focus
 bindsym $mod+h focus left
 bindsym $mod+j focus down
@@ -113,6 +118,7 @@ bindsym $alt+F1      exec ~/scripts/fix_screens.sh
 # bindsym $alt+F3		 exec firefox-developer-edition https://ueokande.github.io/vim-vixen/keymaps.html
 bindsym $mod+e 		 exec emacs
 bindsym $mod+m       exec brave --new-window "https://messages.google.com/web/conversations"
+bindsym $alt+F3       exec ~/scripts/switch_res.sh
 
 bindsym --release Print exec scrot
 bindsym --release Shift+Print exec scrot -s
@@ -203,12 +209,16 @@ bindsym $mod+d mode "display"
 
 ##### WINDOWS ######
 
+workspace 1 output primary
+workspace 2 output HDMI-0
+
 # assign [class = "Firefox"] 1
 # assign [class = "qutebrowser"] 1
 # assign [class = "Google-chrome"] 1
 # assign [class = "DBeaver"] 3
 # assign [class = "zoom"] 9
 # assign [instance = "music"] 10
+assign [class = "discord"] 2
 
 for_window [class = "Wpg"] floating enable
 for_window [instance = "dropdown"] move scratchpad
@@ -217,6 +227,7 @@ for_window [instance = "dropdown"] floating enable
 for_window [instance="origin.exe"] floating enable
 for_window[class="Steam"] floating enable
 for_window[class="Steam" title="^Steam$"] floating disable
+for_window[class="Spotify"] move to workspace 2
 
 
 ###### STARTUP ######
@@ -234,6 +245,7 @@ exec --no-startup-id ~/scripts/fix_screens.sh
 exec --no-startup-id picom
 exec --no-startup-id kitty --name dropdown
 exec --no-startup-id dunst
+exec --no-startup-id blueman-applet
 
 exec --no-startup-id brave
 exec --no-startup-id discord
