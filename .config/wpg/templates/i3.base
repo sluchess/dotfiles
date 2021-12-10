@@ -225,6 +225,7 @@ for_window [instance = "dropdown"] move scratchpad
 for_window [instance = "dropdown"] floating enable
 # for_window [instance = "music"] floating enable
 for_window [instance="origin.exe"] floating enable
+# for_window [title="^Origin$"] floating enable
 for_window[class="Steam"] floating enable
 for_window[class="Steam" title="^Steam$"] floating disable
 for_window[class="Spotify"] move to workspace 2
